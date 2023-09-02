@@ -1,6 +1,6 @@
 {
   "name": "bbc-radio-recorder",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Node.js VLC-based Recorder for BBC Radio Streams",
   "author": "Rob Tweed <rtweed@mgateway.com>",
   "scripts": {
